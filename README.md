@@ -6,12 +6,12 @@
 ![](docs/login.png)
 3. 点击switch network
 ![](docs/wifi_config.png)
-4. 选择家里的Wifi，连上，然后你就能用科学路由器上网了
+4. 选择家里的Wifi，连上，然后你就能用路由器上网了（但还不能访问被和谐网站）。
 ![](docs/wifi_selection.png)
 
 ## 连接机场
 需要开启科学路由器上的open clash。它有两个功能
-* 连接机场
+* 连接机场，访问和谐网站
 * 按规则分流，访问国内网站走直连（不经机场，节省机场流量），国际网站走机场
 
 1. 在浏览器访问http://192.168.8.1/cgi-bin/luci/admin/services/openclash
