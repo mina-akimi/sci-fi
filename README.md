@@ -10,6 +10,9 @@
 ![](docs/wifi_selection.png)
 
 ## 连接机场
+
+> 连接前需要断开Open VPN
+
 需要开启科学路由器上的open clash。它有两个功能
 * 连接机场，访问和谐网站
 * 按规则分流，访问国内网站走直连（不经机场，节省机场流量），国际网站走机场
@@ -27,3 +30,9 @@
 3. 需要约半分钟。然后能看到这个界面，就说明连接成功。现在可以访问谷歌了。
 ![](docs/open_clash_started.png)
 
+## 连接Express VPN
+
+> 连接前需要断开open clash
+
+按下面指示开启VPN。节点选择Express VPN的英国节点。
+![](docs/express_vpn.png)
