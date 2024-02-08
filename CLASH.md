@@ -17,13 +17,13 @@ Clash是一个代理软件，用于连接机场服务器（类似VPN的服务器
 
 有好心人在Github整理了一些免费的机场订阅，比如以下（直接复制粘贴）：
 
-···
+```
 https://git.io/emzclash
-···
+```
 
-···
+```
 # 上面的用不了，可以用这个长连接
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-···
+```
 
 共有机场不会太快，毕竟是免费的。
