@@ -2,7 +2,7 @@
 
 Clash是一个代理软件，用于连接机场服务器（类似VPN的服务器），有iOS，安卓，Windows，Linux，MacOS等版本。由于[2023删库事件](https://github.com/net4people/bbs/issues/303)，现在需要去自己找这些文件了。
 
-# 订阅
+# 订阅(Subscription)
 
 订阅的意义是注册机场会员后，机场会给你一个秘密链接，把这个链接复制粘贴到Clash里就可以科学上网了。
 
